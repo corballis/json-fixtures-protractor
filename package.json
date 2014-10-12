@@ -1,0 +1,25 @@
+{
+  "name": "json-fixtures-protractor",
+  "version": "0.0.1",
+  "description": "Json Fixture protractor helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/corballis/json-fixtures-protractor.git"
+  },
+  "keywords": [
+    "JSON",
+    "Fixtures"
+  ],
+  "author": "Gabor Szmetanko <gabor.szmetanko@corballis.ie> (http://www.corballis.ie/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/corballis/json-fixtures-protractor/issues"
+  },
+  "dependencies": {
+    "request": "2.45.0"
+  }
+}
